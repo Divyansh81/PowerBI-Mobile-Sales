@@ -9,7 +9,7 @@ This project is a Power BI dashboard created to analyze **mobile phone sales dat
 ## 📁 Dataset
 
 - **File name**: `Mobile Sales Data.xlsx`
-- **Source**: Provided as part of a 30-day data challenge
+- **Source**: Provided as part of a Mobile_Sales
 - **Contents**: Daily sales records including product name, region, date (day/month/year), quantity sold, and more.
 
 ---
